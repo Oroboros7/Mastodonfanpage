@@ -2,9 +2,7 @@
 * {
   box-sizing: border-box;
 }
-img{
-  display:block !important;
-}
+
 
 .menu {
   float:left;
@@ -98,10 +96,6 @@ h1 {
         color: white;
 }
 
-.rodape a {
-margin-left: 10px;
-margin-right: 10px;
-}
 
 #paragrafo1 {
   background-color: #e5e5e5;
