@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 img{
-  display:block;
+  display:block !important;
 }
 
 .menu {
