@@ -96,8 +96,17 @@ h1 {
         color: white;
 }
 
+#oficial {
+  margin-right: 20px;
+}
 
+#insta {
+  margin-right: 20px;
+}
 
+#fb {
+  margin-right: 20px;
+}
 
 #paragrafo1 {
   background-color: #e5e5e5;
